@@ -76,7 +76,7 @@ Total cost: 875.0
 - Integration with a database (JDBC/MySQL)
 
 ## 👤 Author
-- Your Name (you can link your GitHub or LinkedIn profile)
+- Your Name (https://www.linkedin.com/in/marshad-ahamedh-92ba01317/)
 
 ---
 Feel free to fork this repo, improve it, and star it ⭐ if you like it!
